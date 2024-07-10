@@ -1,6 +1,9 @@
 # my-first-repo-coursera
 Practive account for learning Git
+<<<<<<< HEAD
 
-arquivo alterado!
+
 
 teste de outra alteração!
+=======
+>>>>>>> refs/remotes/origin/main
